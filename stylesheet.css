@@ -1,0 +1,117 @@
+.img{
+    border: 8px solid blue;
+    width: 82vw;
+    height: 50vh;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.maindiv
+{
+    border: 8px solid black;
+    margin-left: 100px;
+    width: 82vw;
+    margin-bottom: 50px;
+    mar
+}
+.div1{
+    display: inline-block;
+    border: 8px solid green;
+    width: 15vw;
+    float: right;
+    height: 30px;
+}
+.div2{
+    display: inline-block;
+    border: 8px solid green;
+    width: 15vw;
+    height: 30px;
+}
+.div3{
+    display: inline-block;
+    border: 8px solid green;
+    width: 15vw;
+    height: 30px;
+}
+.div4{
+    display: inline-block;
+    border: 8px solid green;
+    width: 15vw;
+    height: 30px;
+}
+.div5{
+    display: inline-block;
+    border: 8px solid green;
+    width: 15vw;
+    height: 30px;
+}
+.h1
+{
+    margin-left: 80px;
+}
+.para
+{
+    margin-left: 150px;
+}
+.content{
+    border: 5px solid red;
+    width: 45vw;
+    height: 50vh;
+    margin-top: 30px;
+    margin-left: 20px;
+    display: inline-block;
+    padding: 10px;
+}
+.list
+{
+    border: 5px solid red;
+    width: 25vw;
+    height: 50vh;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    display: inline-block;
+    padding: 10px;
+    float: right;
+    margin-right: 50px;
+
+}
+.head{
+    width: ;
+    height: 70vh;
+
+}
+.div6{
+    display: block;
+    border: 8px solid green;
+    width: 22vw;
+    margin-top: 10px;
+    height: 35px;
+    margin-left: 15px;
+}
+.div7{
+    display: block;
+    border: 8px solid green;
+    width: 22vw;
+    height: 35px;
+    margin-left: 15px;
+}
+
+.div8{
+    display: block;
+    border: 8px solid green;
+    width: 22vw;
+    height: 35px;
+    margin-left: 15px;
+}
+
+.div9{
+    display: block;
+    border: 8px solid green;
+    width: 22vw;
+    height: 35px;
+    margin-left: 15px;
+}
+
+.copy{
+    margin-left: 100px;
+}
