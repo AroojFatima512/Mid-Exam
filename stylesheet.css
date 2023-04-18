@@ -58,6 +58,7 @@
     height: 50vh;
     margin-top: 30px;
     margin-left: 20px;
+    margin-bottom: 20px;
     display: inline-block;
     padding: 10px;
 }
@@ -67,7 +68,7 @@
     width: 25vw;
     height: 50vh;
     margin-top: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     margin-left: 30px;
     display: inline-block;
     padding: 10px;
@@ -111,7 +112,22 @@
     height: 35px;
     margin-left: 15px;
 }
-
+.ul1
+{
+    margin-left: 80px;
+}
+.ul2
+{
+    margin-left: 80px;
+}
+.ul3
+{
+    margin-left: 80px;
+}
+.ul4
+{
+    margin-left: 80px;
+}
 .copy{
     margin-left: 100px;
 }
